@@ -31,4 +31,4 @@ Below is a list of session folders. Click the links to navigate to each session'
 
 - **Clone the Repository**:
   ```bash
-  git clone https://github.com/yourusername/aipm-2025-1.git
+  git clone https://github.com/kvmmn/aipm-2025-1.git
