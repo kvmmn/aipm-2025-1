@@ -1,5 +1,5 @@
 # AI Applications in Project Management – Risk Management & Predictive Analytics (s2-rm)
-<img src="aipm-s2-rm.png" alt="AI Applications in Project Management" width="720"/>
+<img src="aipm-s2-rm.png" alt="AI Applications in Project Management: Risk Management & Predictive Analytics"/>
 Welcome to the **Risk Module** folder of the AI Applications in Project Management course repository.
 
 This repository is part of the "AIPM-2025-1" project hosted on GitHub:
@@ -133,19 +133,13 @@ OPENAI_API_KEY=sk-12345ABCDEF...your_actual_api_key_here
 
 ⸻
 
-License / مجوز
-
-This project is open source under the MIT License.
-این پروژه به صورت متن‌باز تحت مجوز MIT منتشر شده است.
-
 Contact / تماس
 
-For questions or further information, please contact:
+For questions or further information, please contact:\
 برای سوالات یا اطلاعات بیشتر لطفاً تماس بگیرید:
 
-Kaveh Momeni
-Email: k.momeni@chaharsotoon.com
-Phone: +989125033466
-LinkedIn
+Kaveh Momeni\
+[Email](mailto:kaveh.momeni@gmail.com)\
+[LinkedIn](linkedin.com/in/kvmmn)
 
 ---

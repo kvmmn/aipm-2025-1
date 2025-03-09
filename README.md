@@ -2,6 +2,7 @@
 This repository houses the practical sessions of the "AI Applications in Project Management" workshop. It’s organized by session folders containing webinar recordings, code examples, slides, and additional resources to support hands-on learning.
 
 # AI Applications in Project Management (AIPM-2025-1)
+<img src="aipm-2025-1.png" alt="AI Applications in Project Management"/>
 
 Welcome to the repository for the practical sessions of the **AI Applications in Project Management** workshop. This repository contains all the webinar session files and resources to help you follow along and implement the concepts discussed during the workshop.
 
