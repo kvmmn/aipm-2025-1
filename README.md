@@ -12,6 +12,14 @@ Each session has its own folder within this repository. Inside each session fold
 - **Code Examples**: Sample code and scripts discussed during the session.
 - **Resources**: Additional reading materials, links, and files relevant to the session topics.
 
+## Session Folders
+
+Below is a list of session folders. Click the links to navigate to each session's materials (links to be updated):
+
+- [Session 1: AI in PM: Knowledge Management]()
+- [Session 2: AI in PM: Risk Management & Predictive Analytics]()
+
+
 ## How to Use This Repository
 
 1. **Navigate**: Browse the session folders to locate the materials for the specific webinar session you attended.
