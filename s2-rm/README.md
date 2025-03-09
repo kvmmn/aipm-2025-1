@@ -1,5 +1,5 @@
 # AI Applications in Project Management – Risk Management & Predictive Analytics (s2-rm)
-
+<img src="aipm-s2-rm.png" alt="AI Applications in Project Management" width="720"/>
 Welcome to the **Risk Module** folder of the AI Applications in Project Management course repository.
 
 This repository is part of the "AIPM-2025-1" project hosted on GitHub:
