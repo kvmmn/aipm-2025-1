@@ -16,8 +16,8 @@ Each session has its own folder within this repository. Inside each session fold
 
 Below is a list of session folders. Click the links to navigate to each session's materials (links to be updated):
 
-- [Session 1: AI in PM: Knowledge Management]()
-- [Session 2: AI in PM: Risk Management & Predictive Analytics]()
+- [Session 1: AI in PM - Knowledge Management]()
+- [Session 2: AI in PM - Risk Management & Predictive Analytics]()
 
 
 ## How to Use This Repository
